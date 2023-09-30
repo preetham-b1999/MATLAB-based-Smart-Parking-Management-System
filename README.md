@@ -2,7 +2,7 @@
 
 *Description* 
 
-Design and implement a parking control system using Arduino uno board to do the following tasks. 
+Designed and implemented a parking control system using Arduino uno board to do the following tasks. 
 
 1.	When there are empty spots in the parking, the total number of available parking spots and a “Welcome!!!” message has to be displayed on an LCD indicator. The parking barrier arm must be in the closed position with a RED traffic light on. 
 
